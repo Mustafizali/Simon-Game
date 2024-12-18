@@ -1,0 +1,22 @@
+body {
+    background-color: #1d1e22;
+    color: white;
+  }
+  
+  .simon-button {
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border: 5px solid #333;
+    border-radius: 10px;
+  }
+  
+  .game-over {
+    background-color: red;
+    opacity: 0.8;
+  }
+  
+  #level-title {
+    font-size: 2rem;
+  }
+  
